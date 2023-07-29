@@ -11,3 +11,9 @@ Question from marshmallow-qa. Answer from ChatGPT.
 },
 ```
 根据我设置的prompt的要求，所有回复都是由emoji和颜文字的。
+
+在ChatGLM2-6b上面实现了微调，效果比较有趣！
+![逆天的回复](image.png)
+
+下一步是增加轻小说和来自萌娘百科的数据。  
+萌百已经爬好了，就是数据质量有点堪忧，构建QA数据集有待讨论。
