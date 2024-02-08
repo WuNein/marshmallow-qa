@@ -1,4 +1,6 @@
 # marshmallow-qa
+
+## Basic
 Question from marshmallow-qa. Answer from ChatGPT.   
 一个简陋的二次元QA数据集
 
@@ -20,7 +22,8 @@ generated 文件夹中是通过萌百生成的QA，暂时没有处理风格的�
 下一步是增加轻小说和来自萌娘百科的数据。  
 萌百已经爬好了，就是数据质量有点堪忧，构建QA数据集有待讨论。
 
-2024/2/4更新
+## 2024/2/4更新
+
 增加了一个DPO.json文件，数据量100条左右，使用复制粘贴吧数据构建了一些DPO的数据集，为了训练一个攻击性比较强的LLM。
 
 ```json
